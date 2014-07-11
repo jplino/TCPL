@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 float celcius (int f);
+
 main()
 {
 	int i;	

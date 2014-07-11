@@ -15,10 +15,8 @@ main()
 float celcius(int fahr)
 
 {
-	float p;
 
-	p = (5.0/9.0) * (fahr-32);
+	return (5.0/9.0) * (fahr-32);
 
-	return p;
 }
 	
